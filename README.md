@@ -17,11 +17,11 @@ Objectives of this Project:
 
 Requiredments:
 1. selenium
-2. Resepective Chrome driver compatible to the chrom version. Which can be downloaded from (https://chromedriver.chromium.org/downloads)
+2. Resepective Chrome driver compatible to your chrome version. Which can be downloaded from (https://chromedriver.chromium.org/downloads)
 3. Pandas
 
 Important Point:
-This repository contain a Jupyter notebook named "", a readme file, a cromedriver of version 106 and output .csv file.
+This repository content a Jupyter notebook named "", a readme file, a cromedriver of version 106 and output .csv file.
 
 
 
