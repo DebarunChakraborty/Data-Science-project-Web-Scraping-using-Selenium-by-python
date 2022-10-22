@@ -4,6 +4,7 @@ In this project I intend to develop a python script to be use as an automatic we
 LETS START!
 
 So what is Web Srcaping?
+
 Web scraping refers to the extraction of data from a website. This information is collected and then exported into a format that is more useful for the user. 
 Be it a spreadsheet or an API[1].
 
