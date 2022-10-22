@@ -22,7 +22,8 @@ Requiredments:
 3. Pandas
 
 Important Point:
-This repository content a Jupyter notebook named "", a readme file, a cromedriver of version 106 and output .csv file.
+
+This repository content a Jupyter notebook named "Web_Scrapping_Task", a readme file, a cromedriver of version 106 and output .csv file.
 
 
 
