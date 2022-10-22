@@ -12,7 +12,7 @@ For more details please Visit(https://www.parsehub.com/blog/what-is-web-scraping
 
 Objectives of this Project:
 
-1. To extract some specific information of first 10 pages ( pages may increase-depnds on the user) such as URL, title, page no., and the describtion of the search result from using google Chrome.   
+1. To extract some specific information of first 10 pages ( pages may increase-depnds on the user) such as URL, title, page no., and the describtion of the search result using google Chrome.   
 3. Create a csv. file to store all the result generated.
 
 
@@ -23,7 +23,7 @@ Requiredments:
 
 Important Point:
 
-This repository content a Jupyter notebook named "Web_Scrapping_Task", a readme file, a cromedriver of version 106 and output .csv file.
+This repository content a Jupyter notebook named "Web_Scrapping_Task", a readme file, a chromedriver of version 106 and output .csv file.
 
 
 
